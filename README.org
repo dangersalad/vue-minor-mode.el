@@ -23,6 +23,6 @@
 
    In the edit buffer, the following commands are available:
 
-   - `C-c '` - Finish editing and replace the code block you are editing in the main file
-   - `C-c C-k` - Cancel your edits and close the edit buffer, leaving the original buffer intact
-   - `C-x C-s` - Replace your edited block in the original file and save the original file, leaving the edit window open
+   - ~C-c '~ - Finish editing and replace the code block you are editing in the main file
+   - ~C-c C-k~ - Cancel your edits and close the edit buffer, leaving the original buffer intact
+   - ~C-x C-s~ - Replace your edited block in the original file and save the original file, leaving the edit window open
