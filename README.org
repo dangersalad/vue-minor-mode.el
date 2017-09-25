@@ -17,7 +17,7 @@
 ** Usage
 
    Inside the ~.vue~ file, with the cursor in any of the ~<template>~,
-   ~<script>~, or ~<style>~ blocks, press ~C-c '~ and a new editing
+   ~<script>~, or ~<style>~ blocks, press ~C-c \'~ and a new editing
    buffer will open up with the appropriate major mode for that code
    block
 
